@@ -4,6 +4,11 @@
 
 ![](./ReadMeAssets/RecyclerGif2.gif)
 
+## About
+
+This is a Native module for React Native targeting Android platform, that utilizes Recycler View Api to bring you a 
+list of card that performs well with huge amounts of data
+
 ## Getting started
 
 `$ npm install react-native-recycler-view --save`
@@ -21,6 +26,7 @@
   - poster_url: string
   - _id: string
 - define an onClick event for the cards, you may get the id from the nativeInfoObject as shown below
+
 ```javascript
 import RecyclerView from 'react-native-recycler-view';
 
