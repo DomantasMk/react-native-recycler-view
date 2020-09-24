@@ -6,8 +6,8 @@
 
 ## About
 
-This is a Native module for React Native targeting Android platform, that utilizes Recycler View Api to bring you a 
-list of card that performs well with huge amounts of data
+This is a Native module for React Native targeting Android platform, that utilizes Recycler View Api to bring you a
+list of cards that performs well with huge amounts of data
 
 ## Getting started
 
@@ -18,13 +18,14 @@ list of card that performs well with huge amounts of data
 `$ react-native link react-native-recycler-view`
 
 ## Usage
+
 - import the module
 - supply it with height
 - pass the object array as data prop
 - make sure object has fields:
   - title: string
   - poster_url: string
-  - _id: string
+  - \_id: string
 - define an onClick event for the cards, you may get the id from the nativeInfoObject as shown below
 
 ```javascript
