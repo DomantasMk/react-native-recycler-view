@@ -2,7 +2,7 @@
   "name": "react-native-recycler-view",
   "title": "React Native Recycler View",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "This is a Native module for React Native targeting Android platform, that utilizes Recycler View Api to bring you a list of card that performs well with huge amounts of data.",
   "main": "index.js",
   "files": [
     "README.md",
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-recycler-view.git",
-    "baseUrl": "https://github.com/github_account/react-native-recycler-view"
+    "url": "git+https://github.com/DomantasMk/react-native-recycler-view.git",
+    "baseUrl": "https://github.com/DomantasMk/react-native-recycler-view"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Domantas Mikelionis",
+    "email": "Domantas.Mikelionis@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
@@ -36,5 +36,6 @@
   "devDependencies": {
     "react": "^16.9.0",
     "react-native": "^0.61.5"
-  }
+  },
+  "homepage": "https://github.com/DomantasMk/react-native-recycler-view#readme"
 }
