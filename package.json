@@ -1,7 +1,7 @@
 {
   "name": "react-native-recycler-view",
   "title": "React Native Recycler View",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a Native module for React Native targeting Android platform, that utilizes Recycler View Api to bring you a list of cards that performs well with huge amounts of data.",
   "main": "index.js",
   "files": [
